@@ -14,8 +14,8 @@ const aqicnToken = 'd8583308daa94866469bc92f567d75420807391c'
 */
 
 const AirQualityStandard = {
-	CN: 'HJ6332012.2113',
-	US: 'EPA_NowCast.2113'
+	CN: 'HJ6332012.2115',
+	US: 'EPA_NowCast.2115'
 }
 
 const AirQualityLevel = {
